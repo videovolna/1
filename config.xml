@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <custom>
+    <contexMenuItem>Miw4NSw2Nyw2OSwxMTAsNzIsOTQsODcsOTMsODAsMTgsMzEsODEsNSw0Myw3MCw2NCwxMSwzMSwyOCw1LDAsMCw1OSwyOCwxLDE1LDEsNzksNzcsMTIsMiw2Niw5OSw3OCwxNCw2LDgyLDMsODEsNzAsMjEsNTgsNzcsODksODAsOTIsMCwyOCw4Miw5Miw4LDEwMyw0LDg1LDUsODYsMCw4NiwxOSw2OCw2Miw3NCw5MCw4MCw4LDgzLDI2</contexMenuItem>
+  </custom>
+  <settings>
+    <preloader image="first" showStartButton="true" preLoadImages="false" showLoadedImages="false"/>
+    <userInterface defaultCursor="true" showArrows="true" showTogglePlayButton="true" showTogglePanButton="zoom" showToggleRotateButton="zoom" showToggleFullscreenButton="true" showResetButton="zoom" showZoombar="true" showZoomButtons="true" zoomBarClickable="true" showScreenshotButton="false">
+      <magnifier enabled="false" radius="100" backgroundColor="FFFFFF"/>
+    </userInterface>
+    <control disableMouseControl="false" disableClick="false" disableDrag="false" dragSpeed="0.5" enableSwing="true" maxZoom="800" zoomSteps="2" clickZoomsIn="false" zoomInStopsRotation="true" zoomOutStartsRotation="false" zoomSetsPan="false" playAfterDrag="false" reverseDrag="false" reversePan="false" mouseWheelZooms="true" rotateZoom="false" arrowInterval="100" screenshotFullImage="false"/>
+    <rotation autoRestart="0" bounce="false" firstImage="0" rotate="true" rotateDirection="1" rotatePeriod="3" rotationAxis="vertical" disabledIfZoom="false"/>
+    <defaults>
+      <image shrinkToFit="true" zoomToFit="true"/>
+    </defaults>
+  </settings>
+  <settings>null</settings>
+  <images>
+    <image src="images/artdenim00001.JPG" srcLarge="imageslarge/artdenim00001.JPG"/>
+    <image src="images/artdenim00002.JPG" srcLarge="imageslarge/artdenim00002.JPG"/>
+    <image src="images/artdenim00003.JPG" srcLarge="imageslarge/artdenim00003.JPG"/>
+    <image src="images/artdenim00004.JPG" srcLarge="imageslarge/artdenim00004.JPG"/>
+    <image src="images/artdenim00005.JPG" srcLarge="imageslarge/artdenim00005.JPG"/>
+    <image src="images/artdenim00006.JPG" srcLarge="imageslarge/artdenim00006.JPG"/>
+    <image src="images/artdenim00007.JPG" srcLarge="imageslarge/artdenim00007.JPG"/>
+    <image src="images/artdenim00008.JPG" srcLarge="imageslarge/artdenim00008.JPG"/>
+    <image src="images/artdenim00009.JPG" srcLarge="imageslarge/artdenim00009.JPG"/>
+    <image src="images/artdenim00010.JPG" srcLarge="imageslarge/artdenim00010.JPG"/>
+    <image src="images/artdenim00011.JPG" srcLarge="imageslarge/artdenim00011.JPG"/>
+    <image src="images/artdenim00012.JPG" srcLarge="imageslarge/artdenim00012.JPG"/>
+    <image src="images/artdenim00013.JPG" srcLarge="imageslarge/artdenim00013.JPG"/>
+    <image src="images/artdenim00014.JPG" srcLarge="imageslarge/artdenim00014.JPG"/>
+    <image src="images/artdenim00015.JPG" srcLarge="imageslarge/artdenim00015.JPG"/>
+    <image src="images/artdenim00016.JPG" srcLarge="imageslarge/artdenim00016.JPG"/>
+    <image src="images/artdenim00017.JPG" srcLarge="imageslarge/artdenim00017.JPG"/>
+    <image src="images/artdenim00018.JPG" srcLarge="imageslarge/artdenim00018.JPG"/>
+    <image src="images/artdenim00019.JPG" srcLarge="imageslarge/artdenim00019.JPG"/>
+    <image src="images/artdenim00020.JPG" srcLarge="imageslarge/artdenim00020.JPG"/>
+    <image src="images/artdenim00021.JPG" srcLarge="imageslarge/artdenim00021.JPG"/>
+    <image src="images/artdenim00022.JPG" srcLarge="imageslarge/artdenim00022.JPG"/>
+    <image src="images/artdenim00023.JPG" srcLarge="imageslarge/artdenim00023.JPG"/>
+    <image src="images/artdenim00024.JPG" srcLarge="imageslarge/artdenim00024.JPG"/>
+    <image src="images/artdenim00025.JPG" srcLarge="imageslarge/artdenim00025.JPG"/>
+    <image src="images/artdenim00026.JPG" srcLarge="imageslarge/artdenim00026.JPG"/>
+    <image src="images/artdenim00027.JPG" srcLarge="imageslarge/artdenim00027.JPG"/>
+    <image src="images/artdenim00028.JPG" srcLarge="imageslarge/artdenim00028.JPG"/>
+    <image src="images/artdenim00029.JPG" srcLarge="imageslarge/artdenim00029.JPG"/>
+    <image src="images/artdenim00030.JPG" srcLarge="imageslarge/artdenim00030.JPG"/>
+    <image src="images/artdenim00031.JPG" srcLarge="imageslarge/artdenim00031.JPG"/>
+    <image src="images/artdenim00032.JPG" srcLarge="imageslarge/artdenim00032.JPG"/>
+    <image src="images/artdenim00033.JPG" srcLarge="imageslarge/artdenim00033.JPG"/>
+    <image src="images/artdenim00034.JPG" srcLarge="imageslarge/artdenim00034.JPG"/>
+    <image src="images/artdenim00035.JPG" srcLarge="imageslarge/artdenim00035.JPG"/>
+    <image src="images/artdenim00036.JPG" srcLarge="imageslarge/artdenim00036.JPG"/>
+    <image src="images/artdenim00037.JPG" srcLarge="imageslarge/artdenim00037.JPG"/>
+    <image src="images/artdenim00038.JPG" srcLarge="imageslarge/artdenim00038.JPG"/>
+    <image src="images/artdenim00039.JPG" srcLarge="imageslarge/artdenim00039.JPG"/>
+    <image src="images/artdenim00040.JPG" srcLarge="imageslarge/artdenim00040.JPG"/>
+    <image src="images/artdenim00041.JPG" srcLarge="imageslarge/artdenim00041.JPG"/>
+    <image src="images/artdenim00042.JPG" srcLarge="imageslarge/artdenim00042.JPG"/>
+    <image src="images/artdenim00043.JPG" srcLarge="imageslarge/artdenim00043.JPG"/>
+    <image src="images/artdenim00044.JPG" srcLarge="imageslarge/artdenim00044.JPG"/>
+    <image src="images/artdenim00045.JPG" srcLarge="imageslarge/artdenim00045.JPG"/>
+    <image src="images/artdenim00046.JPG" srcLarge="imageslarge/artdenim00046.JPG"/>
+    <image src="images/artdenim00047.JPG" srcLarge="imageslarge/artdenim00047.JPG"/>
+    <image src="images/artdenim00048.JPG" srcLarge="imageslarge/artdenim00048.JPG"/>
+    <image src="images/artdenim00049.JPG" srcLarge="imageslarge/artdenim00049.JPG"/>
+    <image src="images/artdenim00050.JPG" srcLarge="imageslarge/artdenim00050.JPG"/>
+    <image src="images/artdenim00051.JPG" srcLarge="imageslarge/artdenim00051.JPG"/>
+  </images>
+</config>
